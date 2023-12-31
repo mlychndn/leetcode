@@ -46,3 +46,5 @@ console.log(validAnagram("rat", "car")); // false
 console.log(validAnagram("awesome", "awesom")); // false
 console.log(validAnagram("amanaplanacanalpanama", "acanalmanplanpamana")); // false
 console.log(validAnagram("qwerty", "qeywrt")); // true
+
+//method 2
